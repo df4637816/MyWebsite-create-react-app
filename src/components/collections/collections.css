@@ -1,0 +1,14 @@
+.collections__container {
+	width: max(750 20vw);
+	margin: 0 auto;
+}
+
+
+
+img {
+	width: 100%;
+	opacity: 0.8;
+	object-fit: cover;
+}
+
+
